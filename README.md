@@ -1,2 +1,2 @@
 # com.castsoftware.labs.cobol.swcopy.update
-Replace SWCOPY command with COPY in Cobol Source files
+Replace SWCOPY AND panvalet ++INCLUDE commands with COPY in Cobol Source files
